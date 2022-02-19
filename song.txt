@@ -7,7 +7,4 @@ Second
 Anover string
 Plus string
 
-New string
-
-String in feature brench
 
